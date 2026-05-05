@@ -16,20 +16,6 @@ This project was developed as part of a data analytics portfolio. It follows the
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-obesity-habits-analysis/
-├── data/
-│   └── obesity_clean.xlsx        # Cleaned dataset (3 sheets: raw, clean, pivot tables)
-├── report/
-│   └── obesity_analysis_report.pdf   # Full analysis report
-├── dashboard/
-│   └── obesity_study.pbix        # Interactive Power BI dashboard
-└── README.md
-```
-
----
 
 ## 📊 Dataset
 
